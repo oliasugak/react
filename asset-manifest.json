@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/react/static/css/main.dcde16bc.css",
+    "main.js": "/react/static/js/main.87662c58.js",
+    "static/media/pot.svg": "/react/static/media/pot.6920fa51bd7457540c95941c9b86b6cb.svg",
+    "static/media/pomoika.svg": "/react/static/media/pomoika.20efb946b02a85179cb09bb0cf3c70e6.svg",
+    "index.html": "/react/index.html",
+    "static/media/clock.svg": "/react/static/media/clock.a7de64540ac67e89cfa2b4358a5757f6.svg",
+    "static/media/water-drop.svg": "/react/static/media/water-drop.792b5ae300f67e0f060f82467ce103eb.svg",
+    "static/media/pencil.svg": "/react/static/media/pencil.2a017b6467947d3c866e8a51244cf71f.svg",
+    "main.dcde16bc.css.map": "/react/static/css/main.dcde16bc.css.map",
+    "main.87662c58.js.map": "/react/static/js/main.87662c58.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.dcde16bc.css",
+    "static/js/main.87662c58.js"
+  ]
+}
