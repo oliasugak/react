@@ -1,0 +1,35 @@
+.meal {
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+
+  padding: 20px 32px 20px 32px;
+  margin-bottom: 25px;
+  background-color: #E5F4FF;
+  border-radius: 54px;
+
+  font-weight: bold;
+  font-size: 18px;
+
+  color: #6D9BF5;
+}
+
+.meal-amount {
+  display: flex;
+  gap: 8px;
+  align-items: center;
+}
+
+.meal-time {
+  justify-self: center;
+  display: flex;
+  gap: 8px;
+  align-items: center;
+}
+
+.remove-meal-button {
+  grid-column-start: 4;
+  justify-self: end;
+  display: flex;
+  align-items: center;
+  width: max-content;
+}

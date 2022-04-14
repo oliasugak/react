@@ -1,0 +1,41 @@
+.add-meal-form {
+  display: block;
+  margin-top: 24px;
+}
+
+.submit-form-button {
+  margin-top: 24px;
+  padding: 22px 136px;
+
+  background-color: #6D9BF5;
+  border-radius: 50px;
+  font-weight: 700;
+  font-size: 20px;
+  display: flex;
+  align-items: center;
+  text-align: center;
+
+  color: #FFFFFF;
+
+  transition: background-color 0.4s, color 0.4s;
+}
+
+.submit-form-button:hover {
+  background-color: #c5e4fa;
+  color: #6D9BF5;
+}
+
+.add-meal-form-input {
+  padding: 16px 24px;
+  background: #E5F4FF;
+  border: none;
+  border-radius: 54px;
+  outline: none;
+  font-size: 16px;
+  font-weight: 700;
+  color: #6D9BF5;
+}
+
+.add-meal-form-input::placeholder {
+  color: #6d9af555;
+}
