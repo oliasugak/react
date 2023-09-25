@@ -35,7 +35,7 @@ export const AddMealForm = ({ onSubmit, hideForm }) => {
       />
 
       <button className='submit-form-button'>
-        Сохранить
+        Зберегти
       </button>
     </form>
   )
