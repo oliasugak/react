@@ -36,11 +36,11 @@ export const DailyRate = ({ dailyRate, updateDailyRate }) => {
   return (
     <div className="left-side">
       <h1 className="greetings">
-        Хаю-хай👋👋
+        Привіт👋👋
       </h1>
 
       <p className="daily-rate-label">
-        Ваша дневная норма воды
+        Ваша денна норма води
       </p>
 
       <div className="daily-rate-container">
@@ -74,7 +74,7 @@ export const DailyRate = ({ dailyRate, updateDailyRate }) => {
             onClick={showForm}
           >
             <Pencil />
-            Изменить
+            Змінити
           </button>
         )}
       </div>
