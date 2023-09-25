@@ -38,7 +38,7 @@ export const CurrentRate = ({ meals, dailyRate, addMeal }) => {
 
       <div className="current-rate-text-container">
         <h2 className="current-rate-label">
-          Выпито <span className="rate-procentage">{alreadyDrunkProcent}%</span> от дневной нормы
+          Випито <span className="rate-procentage">{alreadyDrunkProcent}%</span> від денної норми
         </h2> 
 
         {isFormVisible ? (
@@ -51,7 +51,7 @@ export const CurrentRate = ({ meals, dailyRate, addMeal }) => {
             className="current-rate-add-button"
             onClick={showForm}
           >
-            Добавить
+            Додати
           </button>
         )}
       </div>
